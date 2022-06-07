@@ -1,0 +1,1 @@
+This is a Kuli-Kuli landing page. I introduced the concept of CSS Variable and Grid layout to my code.
